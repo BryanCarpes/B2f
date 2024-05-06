@@ -1,0 +1,14 @@
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Sedan+SC&display=swap');
+</style>
+{
+    margin: 0;
+    padding:  24px 0;
+    font-size: 24px;
+    justify-content:  space-around
+}
+
+body {
+    font-family:"Sedan SC", sans-serif ;
+}
+
